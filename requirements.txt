@@ -1,0 +1,7 @@
+git+https://github.com/facebookresearch/detectron2.git
+opencv-python
+scikit-image
+diffusers==0.26.3
+xformers==0.0.16
+open-clip-torch==2.23.0
+transformers==4.32.1
